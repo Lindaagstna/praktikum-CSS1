@@ -1,0 +1,99 @@
+body {
+    background-color: aliceblue;
+}
+
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+#header{
+    background-color: #eba3b0;
+    height: 125px;
+    padding-bottom: 10px;
+    padding: 5px 0px;
+}
+
+.desk {
+    text-align: center;
+}
+
+.menu li {
+    display: inline;
+    margin: 75px;
+}
+
+.menu a {
+    margin-left: 150px;
+}
+
+.menu a:hover {
+    font-weight: bold;
+    color: #C96868;
+}
+
+.isi::first-letter {
+    color: #8967B3;
+    font-size: 40px;
+}
+
+blockquote {
+    background-color: bisque;
+    border-left: 1px dotted black;
+    border-top: 1px dotted black;
+
+}
+
+.gambar {
+    text-align: center;
+}
+
+.gambar img {
+    width: 175px;
+    height: 175px;
+}
+
+.isi p {
+    line-height: 1;
+}
+
+.koleksi img {
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+}
+
+.koleksi {
+    text-align: center;
+}
+
+.promo{
+    text-align: center;
+    justify-items: center;
+}
+
+h2 {
+    color: red;
+}
+
+.promo h4 {
+    color: red;
+}
+
+.promo li{
+    display: inline;
+    margin: 12px;
+}
+
+.promo h3 {
+    width: fit-content;
+    border: 2px solid palevioletred;
+    background-color: #ecb9b9;
+    color: white;
+}
+
+.promo li a:hover {
+    font-weight: bold;
+    color: #C96868;
+}
